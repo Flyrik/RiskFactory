@@ -1,4 +1,4 @@
-# Chimical Serious Game
+# RiskFactory
 
 ## 🎮 Lancement du projet
 
@@ -28,3 +28,4 @@ Au lancement de l’application :
 - Feedback immédiat en cas d’erreur
 - Bilan final de performance
 - Cas d'erreur critique ou l'utilisation d'un extincteur est obligatoire
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/9f4913d7-bf0f-41f7-9deb-03e8b63da988" />
