@@ -1,6 +1,6 @@
 # RiskFactory
 
-## 🎮 Lancement du projet
+## 🧪 Lancement du projet
 
 Le projet contient deux modes :
 - **PCVR (Windows)** : pour casque VR connecté au PC
